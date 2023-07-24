@@ -1,4 +1,4 @@
-                                    Hotel booking system data - Exploratory Data Analysis
+                  # Hotel booking system data - Exploratory Data Analysis
 
 Objective:   Acquired is a Hotel-booking data of two hotels - City Hotel and Resort Hotel. do an EDA on the information to gain useful insights and build visualizations for a better understanding. 
 
